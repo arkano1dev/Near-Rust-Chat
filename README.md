@@ -1,6 +1,13 @@
 # Near-Rust-Chat
 
-My assignment within the Near bootcamp at Encode Club. With this code enables you to exchange messages with other participants using a contract on the NEAR network. To begin, make sure you have the following dependencies listed in the *cargo.toml*  file:
+My assignment within the Near bootcamp at Encode Club. With this code enables you to exchange messages with other participants using a contract on the NEAR network. 
+
+
+![image](https://github.com/arkanoeth/Near-Rust-Chat/assets/62271657/3c90e0ac-6f17-45d0-ad97-cd8b87d49afe)
+
+
+
+To begin, make sure you have the following dependencies listed in the *cargo.toml*  file:
 
 [dependencies]
 
@@ -37,12 +44,15 @@ cargo install --git https://github.com/FroVolod/bos-cli-rs
 
 You are now ready to send and store messages using the contract.
 
+
+
 > [!NOTE]
 > Be careful not to create your account using only an email within BOS, as this account is currently restricted.
+
+
 
 > [!IMPORTANT]
 > Make sure to have some NEAR in your account to be able to sign the transaction.
 
 
-![image](https://github.com/arkanoeth/Near-Rust-Chat/assets/62271657/3c90e0ac-6f17-45d0-ad97-cd8b87d49afe)
 
