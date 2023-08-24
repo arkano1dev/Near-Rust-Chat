@@ -1,9 +1,11 @@
 # Near-Rust-Chat
 
-My assignment within the Near bootcamp at Encode Club. With This code enables you to exchange messages with other participants using a contract on the Near network. To begin, make sure you have the following dependencies listed in your *cargo.toml*  file:
+My assignment within the Near bootcamp at Encode Club. With This code enables you to exchange messages with other participants using a contract on the Near network. To begin, make sure you have the following dependencies listed in the *cargo.toml*  file:
 
 [dependencies]
+
 - near-sdk = "4.1.1"
+
 - near-sdk-contract-tools = "1.0.1"
 
 
@@ -25,7 +27,7 @@ cargo install --git https://github.com/FroVolod/bos-cli-rs
 
 ## Usage
 
-- Visit https://near.org/flags and enable the BOs loader URL: "http://127.0.0.1:3030".
+- Visit https://near.org/flags and enable the BOS loader URL: "http://127.0.0.1:3030".
 - Navigate to the project directory in the terminal.
 - Run the following command:
 
