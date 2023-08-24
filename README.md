@@ -1,6 +1,6 @@
 # Near-Rust-Chat
 
-My assignment within the Near bootcamp at Encode Club. With This code enables you to exchange messages with other participants using a contract on the Near network. To begin, make sure you have the following dependencies listed in the *cargo.toml*  file:
+My assignment within the Near bootcamp at Encode Club. With this code enables you to exchange messages with other participants using a contract on the NEAR network. To begin, make sure you have the following dependencies listed in the *cargo.toml*  file:
 
 [dependencies]
 
