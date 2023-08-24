@@ -16,7 +16,7 @@ const Message = styled.div`
 const SendControls = styled.div`
   display: flex;
   gap: 5em;
-  margin: 2 em;
+  margin: 2em;
 `;
 
 const sendMessage = () => {
