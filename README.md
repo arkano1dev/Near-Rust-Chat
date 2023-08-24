@@ -3,7 +3,8 @@
 My assignment within the Near bootcamp at Encode Club. With this code enables you to exchange messages with other participants using a contract on the NEAR network. 
 
 
-![image](https://github.com/arkanoeth/Near-Rust-Chat/assets/62271657/3c90e0ac-6f17-45d0-ad97-cd8b87d49afe)
+![image](https://github.com/arkanoeth/Near-Rust-Chat/assets/62271657/b77b68a6-db01-4cb4-a75e-9ff8ad75a614)
+
 
 
 
