@@ -3,16 +3,16 @@
 My assignment within the Near bootcamp at Encode Club. With This code enables you to exchange messages with other participants using a contract on the Near network. To begin, make sure you have the following dependencies listed in your *cargo.toml*  file:
 
 [dependencies]
-near-sdk = "4.1.1"
-near-sdk-contract-tools = "1.0.1"
+- near-sdk = "4.1.1"
+- near-sdk-contract-tools = "1.0.1"
 
 
 ## Installation 
 
 Make sure you have the following versions of Rust and Cargo:
 
-cargo 1.71.1
-rustc 1.71.1 (eb26296b5 2023-08-03)
+- cargo 1.71.1
+- rustc 1.71.1 (eb26296b5 2023-08-03)
 
 Install the required packages and tools:
 
